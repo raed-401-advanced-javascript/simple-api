@@ -1,0 +1,25 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raed-401-advanced-javascript/simple-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raed-401-advanced-javascript/simple-api/issues"
+  },
+  "homepage": "https://github.com/raed-401-advanced-javascript/simple-api#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.18.0",
+    "jest": "^25.1.0"
+  }
+}

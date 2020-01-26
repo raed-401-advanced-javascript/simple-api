@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "category": "boots",
+      "name": "addidas",
+      "display_name": "running_boots",
+      "description": "comfartable",
+      "_id": 1
+    },
+    {
+      "category": "shirt",
+      "name": "jordan",
+      "display_name": "T_shirt",
+      "description": "wonderful",
+      "_id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "tommy",
+      "display_name": "pants",
+      "description": "great_expierence",
+      "_id": 2
+    },
+    {
+      "name": "gucci",
+      "display_name": "jackets",
+      "description": "will touch your heart",
+      "_id": 3
+    },
+    {
+      "name": "puma",
+      "display_name": "pants",
+      "description": "will make you champion"
+    }
+  ]
+}
