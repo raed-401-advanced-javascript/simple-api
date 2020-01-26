@@ -7,9 +7,9 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/raed-401-advanced-javascript/simple-api/pull/1)
+- [swagger file](/swagger.json)
 
 
-### Setup
 
 #### `.env` requirements (where applicable)
 
